@@ -1,0 +1,8 @@
+.idea/
+.venv/
+venv/
+htmlcov/
+*__pycache__
+*.log
+.env
+.coverage
